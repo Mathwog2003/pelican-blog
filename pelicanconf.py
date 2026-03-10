@@ -1,6 +1,7 @@
 AUTHOR = 'Gowtham Sudo Lifer'
 SITENAME = 'Gowtham Blog'
-SITEURL = ""
+SITEURL = "https://github.com/Mathwog2003/pelican-blog"
+RELATIVE_URLS = True
 
 PATH = "content"
 
